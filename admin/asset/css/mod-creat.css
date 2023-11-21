@@ -1,0 +1,25 @@
+.creat-mod ul li{
+    display: inline-block;
+    text-align: left;
+        font-size: 14px;
+}
+
+.creat-mod ul li input{
+    border-radius: 0px;
+        height: 32px;
+}
+
+.creat-mod ul{
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+.creat-mod ul li .form-group{
+        margin-right: 20px;
+}
+
+.creat-mod{
+    background-color: #F5F5F7;
+        height: 650px;
+    padding-top: 50px;
+}

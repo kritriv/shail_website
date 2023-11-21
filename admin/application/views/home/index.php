@@ -1,0 +1,602 @@
+<?php $this->load->view('partials/header-ui'); ?>
+    <div class="banneer">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-9 lft-imgg">
+            <div class="slideer">
+            <div class="in-slid">
+            <h4 class="greean-trea animated infinite zoomIn "><img src="<?php echo base_url("ui-asset/image/yellow.png"); ?>" alt=""></h4>
+                <img src="<?php echo base_url("ui-asset/image/banner1.jpg"); ?>" alt="">
+           
+                </div>
+                <div class="in-slid">
+                <h4 class="greean-trea1 animated infinite fadeInRight"><img src="<?php echo base_url("ui-asset/image/green.png"); ?>" alt=""></h4>
+                <img src="<?php echo base_url("ui-asset/image/banner2.jpg"); ?>" alt="">
+           
+                </div>
+                <div class="in-slid">
+                <h4 class="greean-trea2 animated infinite wobble"><img src="<?php echo base_url("ui-asset/image/black.png"); ?>" alt=""></h4>
+                <img src="<?php echo base_url("ui-asset/image/banner3.jpg"); ?>" alt="">
+            
+                </div>
+            </div>
+            
+            <div class="Feature Product">
+            <h3 class="featuree"><b class="fir-line"></b>Featured Products<b class="fir-line2"></b></h3>
+               
+                <div class="link-auct-dir">
+                <ul>
+                <li><a href="#" class="dicrtty dicrt-show ">Direct Sale</a></li>
+                <li><a href="#" class="auction-hide">Auction</a></li>
+                </ul>
+                </div>
+                <div class="row adujst top-directt">
+                <div class="col-sm-4 in-lftt">
+                    <div class="col-md-12 mid">
+                     <img src="<?php echo base_url("ui-asset/image/tea1.jpg"); ?>" alt="">
+                   
+                    <div class="main-on-sal2"> <div class="on-sal2 "><span>Direct S</span></div></div>
+                  
+                   
+                    <div class="cleer"></div>
+                    <div class="containt-sal">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                    <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg>
+                            
+                            </a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                    </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                         <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea2.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Direct S</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry </a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                             </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                         <div class="col-md-12 mid">
+                                     <img src="<?php echo base_url("ui-asset/image/tea3.jpg"); ?>" alt="">
+                        
+                    <div class="main-on-sal2"> <div class="on-sal2"><span>Direct S</span></div></div>
+                   
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry </a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+ <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                         </div>
+                    </div>
+                </div>
+                
+                 <div class="row adujst">
+                <div class="col-sm-4 in-lftt">
+                    <div class="col-md-12 mid">
+                     <img src="<?php echo base_url("ui-asset/image/tea1.jpg"); ?>" alt="">
+                   
+                    <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                  
+                   
+                    <div class="cleer"></div>
+                    <div class="containt-sal">
+                    <h2><a href="auction-detail.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                    <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg>
+                            
+                            </a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                    </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                         <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea2.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry </a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                             </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                         <div class="col-md-12 mid">
+                                     <img src="<?php echo base_url("ui-asset/image/tea3.jpg"); ?>" alt="">
+                        
+                    <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                   
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry </a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+ <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="in-midd">
+            <div class="row adujst">
+                    <div class="col-sm-4 in-lftt">
+                        <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea4.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 in-lftt">
+                            <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea5.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                       </div> 
+                    </div>
+                    <div class="col-sm-4 in-lftt">
+                            <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea6.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                       <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="it-work">
+            <h4>How it Work</h4>
+            <p>Comming Soon</p>
+            </div>
+          
+            
+                   <div class="New-prod">
+                   <h3 class="featuree new-pro"><b class="fir-line"></b>New Products<b class="fir-line2"></b></h3>
+          
+                  
+                <div class="row adujst">
+                <div class="col-sm-4 in-lftt">
+                        <div class="col-md-12 mid">
+                     <img src="<?php echo base_url("ui-asset/image/tea4.jpg"); ?>" alt="">
+                   
+                    <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                    
+                   
+                    <div class="cleer"></div>
+                    <div class="containt-sal">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                    <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                    </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                             <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea5.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                     <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                         </div>
+                    </div>
+                  <div class="col-sm-4 in-lftt">
+                          <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea6.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                              </div>
+                    </div>
+                </div>
+                
+                 <div class="row">
+                <div class="col-sm-4 in-lftt">
+                        <div class="col-md-12 mid">
+                     <img src="<?php echo base_url("ui-asset/image/tea4.jpg"); ?>" alt="">
+                   
+                    <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                    
+                   
+                    <div class="cleer"></div>
+                    <div class="containt-sal">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                    <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                    </div>
+                    </div>
+                     <div class="col-sm-4 in-lftt">
+                             <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea5.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                     <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                         </div>
+                    </div>
+                  <div class="col-sm-4 in-lftt">
+                          <div class="col-md-12 mid">
+                      <img src="<?php echo base_url("ui-asset/image/tea6.jpg"); ?>" alt="">
+                           <div class="main-on-sal2"> <div class="on-sal2"><span>Auction</span></div></div>
+                          <div class="containt-sal seco">
+                    <h2><a href="tea-details.php">Lorem Ipsum has been industry</a></h2>
+                        <p> Lorem Ipsum has been the industry's standard dummy text </p>
+                    </div>
+                          <div class="pricce">
+                    <ul>
+                        <li class="firrst"><span><strike>$17.68</strike> $15.68</span></li>
+                         <li><a href="#" data-toggle="modal" data-target="#myModal27"><i class="fa fa-cart-arrow-down carrt" aria-hidden="true"></i></a></li>
+                        <li><a href="#" class="haereart" data-toggle="modal" data-target="#myModal24">   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                                <g transform="translate(0,-952.36218)">
+                                    <path d="M26.4,960.9c-6.2,0-12.4,2.4-17.1,7.2c-9.4,9.6-9.4,25.2,0,34.8l39.7,40.6c0.5,0.5,1.3,0.5,1.8,0
+                                        c13.3-13.5,26.5-27,39.8-40.5c9.4-9.6,9.4-25.1,0-34.7c-9.4-9.6-24.7-9.6-34.2,0l-6.4,6.5l-6.5-6.6
+                                        C38.8,963.3,32.6,960.9,26.4,960.9z"></path>
+                                </g>
+                                </svg></a></li>
+                        <li><a href="products-com.php"><i class="fa fa-caret-left lft-rht" aria-hidden="true"></i><i class="fa fa-caret-right lft-rht" aria-hidden="true"></i></a></li>
+                      </ul>
+                       </div>
+                              </div>
+                    </div>
+                </div>
+            </div>
+            
+            </div>
+            <div class="col-sm-3 rigght-img">
+            <img src="<?php echo base_url("ui-asset/image/istock-502426854.jpg"); ?>" alt="">
+            <img src="<?php echo base_url("ui-asset/image/66fa168f-0179-4eee-86e0-bf6241778ee7.jpg"); ?>" alt="" class="seco-imgg">
+                <div class="categoree">
+                <h4>Product Type</h4>
+                      <div class="lin catgo"></div>
+                    <ul>
+                    <li ><span class="black-taeae"> <i class="fa fa-plus" aria-hidden="true"></i> Green Tea</span>
+                        <ul class="in-tea-link">
+                           <li>Green CTC</li>
+                    <li> Green Orthodox</li>
+                   
+                        
+                        </ul>
+                        
+                        </li>
+                    <li > <span class="black-taeae1"><i class="fa fa-plus" aria-hidden="true"></i> Purple Tea</span>
+                           <ul class="in-tea-link1">
+                           <li> Purple CTC</li>
+                           <li> Purple Orthodox</li>
+                           
+                   
+                        
+                        </ul>
+                        </li>
+                    <li ><span class="black-taeae2"><i class="fa fa-plus" aria-hidden="true"></i> Yellow Tea</span>
+                          <ul class="in-tea-link2">
+                           <li> Yellow Orthodox</li>
+                   
+                        
+                        </ul>
+                        </li>
+                    <li ><span class="black-taeae3"><i class="fa fa-plus" aria-hidden="true"></i> White Tea</span>
+                          <ul class="in-tea-link3">
+                           <li> White Orthodox</li>
+                  
+                        
+                        </ul>
+                        </li>
+                    <li ><span class="black-taeae4"><i class="fa fa-plus" aria-hidden="true"></i> Black Tea</span>
+                          <ul class="in-tea-link4">
+                           <li> Black Orthodox</li>
+                 
+                        
+                        </ul>
+                        </li>
+                   
+                    </ul>
+                </div>
+                
+                
+                <div class="advertise-img">
+                <img src="<?php echo base_url("ui-asset/image/36.PNG"); ?>" alt="">
+                 </div>
+                
+                <div class="best-sellr">
+                <h4>Best Sellers</h4>
+                  <div class="buttton">
+                    <a href="best-seller.php" >All Best Sellers</a></div>
+                    <div class="claearr"></div>
+                      <div class="lin blog-lin1"></div>
+                 <marquee direction="up"   scrolldelay="5" onMouseOver="this.stop()" onMouseOut="this.start()" ><ul>
+                    
+                    <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                        <li><img src="<?php echo base_url("ui-asset/image/cedar-tea_by_Mette-Nielsen-LEDE.jpg"); ?>" alt=""><span> Lorem Ipsum has been  </span></li>
+                    </ul>
+                     </marquee> 
+                  
+                </div>
+                
+                 <div class="cont-slidder">
+                
+            <div class="contan">
+               <h4>Customers Say </h4>
+               
+                   <img src="<?php echo base_url("ui-asset/image/photo-1516795680264-ba1f8518c603.jpg"); ?>" alt="">
+                    <h6>Syndra</h6><p> when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic took a galley of type and scrambled it to</p>
+               
+                </div>
+                  <div class="contan">
+               
+               <h4>Customers Say </h4>
+                   <img src="<?php echo base_url("ui-asset/image/photo-1516795680264-ba1f8518c603.jpg"); ?>" alt="">
+                    <h6>Syndra</h6>
+                    <p> when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic took a galley of type and scrambled it to</p>
+               
+                </div>
+             <div class="contan">
+               <h4>Customers Say </h4>
+               
+                   <img src="<?php echo base_url("ui-asset/image/photo-1516795680264-ba1f8518c603.jpg"); ?>" alt="">
+                    <h6>Syndra</h6><p> when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic took a galley of type and scrambled it to</p>
+               
+                </div>
+            </div>
+                
+            </div>
+        </div>
+        </div>
+    </div>
+        </div>
+    </div>
+    
+    <div class="last-prt">
+    <div class="container">
+        <div class="full-con lastt-cont">
+        <h4>From Our Blog</h4>
+              <div class="lin blog-lin"></div>
+            <div class="row foot-rw">
+            <div class="col-md-3 offset-2 imgg">
+                <div class="col-md-12 mid in-md">
+                <img src="<?php echo base_url("ui-asset/image/44.jpg"); ?>" alt="">
+                <h3><a href="#">Lorem Ipsum is simply dummy text of the printing</a>  <span class="in-last">by <span class="inn-last">Demo</span></span></h3>
+                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type </p>
+                <div class="read-mor">
+               <h5><span> <a href="#">Read More</a> </span> </h5> 
+                </div>
+                </div>
+                </div>
+            <div class="col-md-3  imgg">
+                <div class="col-md-12 mid in-md">
+                 <img src="<?php echo base_url("ui-asset/image/45.jpg"); ?>" alt="">
+                 <h3><a href="#">Lorem Ipsum is simply dummy text of the printing</a> <span class="in-last">by <span class="inn-last">Demo</span></span></h3>
+                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type </p>
+                 <div class="read-mor">
+               <h5><span> <a href="#">Read More</a> </span> </h5> 
+                </div>
+                    </div>
+                </div>
+            <div class="col-md-3  imgg">
+                <div class="col-md-12 mid in-md">
+                 <img src="<?php echo base_url("ui-asset/image/44.jpg"); ?>" alt="">
+                 <h3><a href="#">Lorem Ipsum is simply dummy text of the printing</a> <span class="in-last">by <span class="inn-last">Demo</span></span></h3>
+                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type </p>
+                 <div class="read-mor">
+               <h5><span> <a href="#">Read More</a> </span> </h5> 
+                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+<?php $this->load->view('partials/footer-ui'); ?>

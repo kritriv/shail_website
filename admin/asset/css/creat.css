@@ -1,0 +1,958 @@
+ul.quanti li{
+
+
+
+    display: inline-block;
+
+
+
+        margin-right: 75px;
+
+
+
+    font-size: 13px;
+
+
+
+    color: #34394D;
+
+
+
+}
+
+
+
+ul.quanti{
+
+
+
+    padding: 0px;
+
+
+
+}
+
+
+
+
+
+
+
+ul.quanti li i{
+
+
+
+    color:#91A7E4;
+
+
+
+        font-size: 12px;
+
+
+
+}
+
+
+
+ul.quanti li span{
+
+
+
+    
+
+
+
+    color: #000;
+
+
+
+    margin-left: 12px;
+
+
+
+        font-weight: 500;
+
+
+
+}
+
+
+
+
+
+
+
+.icon-prt{
+
+
+
+       margin-top: 30px;
+
+
+
+    padding-bottom: 30px;
+
+
+
+    border-bottom: 2px solid #ccc;
+
+
+
+          
+
+
+
+}
+
+
+
+
+
+
+
+.text-pt h2{
+
+
+
+   font-family: 'Open Sans', sans-serif !important;
+
+
+
+        font-size: 22px;
+
+
+
+    color: #091126;
+
+
+
+  
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.input-group-prepend span{
+
+
+
+        background-color: #F5F7FC;
+
+
+
+    color: #7B7F8E;
+
+
+
+}
+
+
+
+
+
+
+
+.txt-frm-lst{
+
+
+
+    width: 50%;
+
+
+
+    padding-right: 10px;
+
+
+
+        text-align: center;
+
+
+
+    margin: 0px auto;
+
+
+
+    
+
+
+
+}
+
+
+
+.txt-frm-lst input{
+
+
+
+     height: 35px;
+
+
+
+    width: 50%;
+
+
+
+}
+
+
+
+
+
+
+
+.text-pt{
+
+    margin: 0px auto;
+
+    max-width: 995px;
+
+    margin-top: 10px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+
+.inn-form-prt{
+
+
+
+    margin: 0px auto;
+
+
+
+           max-width: 995px;
+
+
+
+    background-color: #fff;
+
+
+
+    padding: 10px 24px;
+
+
+
+}
+
+
+
+
+
+
+
+.txt-frm{
+
+
+
+    width: 50%;
+
+
+
+        padding-right: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.form-prt{
+
+
+
+    background-color: transparent;
+
+
+
+  
+
+
+
+}
+
+
+
+
+
+
+
+.input-group-text{
+
+
+
+font-size: 14px;
+
+
+
+   font-family: 'Open Sans', sans-serif !important;
+
+
+
+     letter-spacing: 1px;
+
+
+
+}
+
+
+
+
+
+
+
+.txt-frm input::placeholder{
+
+
+
+   font-family: 'Open Sans', sans-serif !important;
+
+
+
+    font-size: 12px;
+
+
+
+     letter-spacing: 2px;
+
+
+
+}
+
+
+
+.txt-frm-lst input::placeholder{
+
+
+
+    font-family: 'Open Sans', sans-serif !important;
+
+
+
+    font-size: 12px;
+
+
+
+     letter-spacing: 2px;
+
+
+
+}
+
+.banner ul{
+    color: #83BF24 !important;
+    float: right;
+    padding-top: 10px;
+}
+.banner ul li i{
+color: #191919 !important;
+}
+
+.banner ul li:nth-last-child(1){
+
+
+
+     border-right: none;
+
+
+
+}
+
+
+
+.banner ul li{
+
+
+
+    display: inline-block;
+
+
+
+        margin-right: 25px;
+
+
+
+        border-right: 1px solid #fff;
+
+
+
+    padding-right: 25px;
+
+
+
+    line-height: 19px;
+
+    color: #83BF24 !important;
+
+
+}
+
+
+
+
+
+
+
+.banner ul li a{
+
+
+
+        font-size: 15px;
+
+
+
+    color: #191919;
+
+
+
+    font-family: 'Open Sans', sans-serif !important;
+
+
+
+    letter-spacing: 1px;
+
+
+
+    text-decoration: none;
+
+
+
+}
+
+
+
+
+
+
+
+.txt-frm{
+
+
+
+    height: 35px;
+
+
+
+}
+
+
+
+
+
+
+
+.tex-are textarea:focus{
+
+
+
+       color: #000 !important;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.btn-sub{
+
+
+
+    text-align: center;
+
+
+
+         margin: 0px auto;
+
+
+
+    max-width: 995px;
+
+}
+
+
+
+.btn-sub button:hover{
+
+
+
+    background-color:  green;
+
+
+
+      border-color:  green;
+
+
+
+}
+
+
+
+
+
+
+
+.btn-sub button:nth-last-child(2){
+
+
+
+   background-color: #f14143;
+
+
+
+     border-color: #f14143;
+
+
+
+}
+
+
+
+
+
+
+
+.input-group label{
+
+
+
+        margin-top: 6px;
+
+
+
+    margin-left: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.btn-sub button{
+
+
+
+    background-color: #83BF24;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14px;
+    letter-spacing: 2px;
+    float: right;
+    margin-left: 40px;
+    border-color: #83BF24;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.midd-prt{
+
+
+
+    max-width: 995px;
+
+
+
+}
+
+
+
+
+
+
+
+.addres{
+
+
+
+    background-color: #EBEEF5;
+
+
+
+    margin: 0px auto;
+
+
+
+    max-width: 995px;
+
+
+
+    padding-top: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.addres h2{
+
+
+
+       font-family: 'Open Sans', sans-serif !important;
+
+
+
+    font-size: 22px;
+
+
+
+    color: #091126;
+
+
+
+        padding: 2px;
+
+
+
+  
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sell-ver{
+
+
+
+       margin: 0px auto !important;
+
+
+
+        
+
+
+
+}
+
+
+
+
+
+
+
+.inn-sell{
+
+
+
+    width: 26% !important;
+
+
+
+}
+
+
+
+
+
+
+
+.inn-addd-prt{
+
+
+
+       background-color: #fff;
+
+
+
+    padding: 50px;
+
+
+
+}
+
+
+
+
+
+
+
+.addd-prt{
+
+
+
+    background-color: transparent;
+
+
+
+        padding-top: 0px;
+
+
+
+}
+
+
+
+
+
+
+
+.addd-prt textarea{
+
+
+
+        border: none !important;
+
+
+
+    background-color: transparent !important;
+
+
+
+    color: #fff !important;
+
+
+
+         border: 1px solid #ced4da !important;
+
+
+
+    width: 100% !important;
+
+
+
+    
+
+
+
+    margin: 0px;
+
+
+
+    transition: 1s !important;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.addd-prt textarea::placeholder{
+
+
+
+    color: #495057;
+
+
+
+}
+
+
+
+
+
+
+
+.tex-are{
+
+
+
+    width: 100%;
+
+
+
+    padding-right: 10px;
+
+
+
+}
+
+
+
+
+
+
+
+.adre-test-cod{
+
+
+
+        width: 32%;
+
+
+
+    padding-right: 12px;
+
+
+
+}
+
+
+
+
+
+
+
+.drop-don select{
+
+
+
+    height: 35px;
+
+
+
+}
+
+
+
+
+
+
+
+.satr-act{
+
+
+
+        width: 21% !important;
+
+
+
+}
+
+
+
+
+
+
+
+.adres-cod{
+
+
+
+        width: 28%;
+
+
+
+}
+
+
+
+
+
+
+
+.drop-don{
+
+
+
+    width: 50%;
+
+
+
+    /*margin-right: 5px;*/
+
+
+
+}
+
+
+
+
+
+
+
+.sat-city{
+
+
+
+ 
+
+
+
+    background-color: transparent !important;
+
+
+
+        color: #495057 !important;
+
+
+
+         border: 1px solid #ced4da !important;
+
+
+
+    width: 100% !important;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

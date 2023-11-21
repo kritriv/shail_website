@@ -1,0 +1,51 @@
+.order-det{
+        padding: 5px 15px;
+    border: 1px solid #ccc;
+        background-color: #fff;
+}
+
+.detail-row{
+        padding: 5px 25px;
+}
+
+.odred td{
+            padding: 10px 10px;
+}
+
+.odred{
+    background-color: #fff;
+}
+
+.shippppng{
+    margin-top: 30px;
+}
+.producccct{
+     margin-top: 30px;
+}
+
+.icon-plu{
+    float: right;
+}
+
+.icon-plu i{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.dro-down h5{
+        font-size: 16px;
+       font-weight: 800;
+   
+}
+
+.inner-detail h2{
+        font-size: 22px;
+    font-weight: 400;
+        padding: 15px 25px 0px;
+}
+
+.inn-inner-detal{
+    background:#EBEEF5;
+   
+    padding-top: 20px;
+}
